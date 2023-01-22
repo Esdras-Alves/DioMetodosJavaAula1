@@ -1,4 +1,4 @@
-# 005_DioMetodosJavaAula1
+# DioMetodosJavaAula1
 ## Repositório contendo exercício da primeira parte de métodos java. 
 
 Crie uma aplicação que resolva as seguintes situações:
